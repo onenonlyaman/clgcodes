@@ -1,0 +1,17 @@
+import java.io.*;
+
+public class prog1
+{
+    public static void main(String args[]) throws IOException
+    {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        System.out.println("Enter a number: ");
+        int a = Integer.parseInt(br.readLine());
+
+        for(int i = 1; i <= 10; i++)
+        {
+            System.out.println(a * i);
+        }
+    }
+}
