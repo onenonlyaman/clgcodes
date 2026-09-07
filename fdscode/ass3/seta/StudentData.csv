@@ -1,0 +1,11 @@
+City,Age,Fees,Admitted
+Mumbai,18,35000,Yes
+Pune,19,42000,No
+Nagpur,20,39000,Yes
+Mumbai,21,,Yes
+Pune,,41000,No
+Nagpur,22,45000,Yes
+Mumbai,23,48000,No
+Pune,24,52000,Yes
+Nagpur,25,56000,No
+Mumbai,26,60000,Yes
